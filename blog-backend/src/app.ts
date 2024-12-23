@@ -4,13 +4,12 @@ import helmet from 'helmet'
 import postRoutes from './routes/postRoutes'
 import authRoutes from './routes/authRoutes'
 import { errorHandler } from './middleware/errorHandler'
+import { config } from './config/config'
 
 const app = express()
 
 app.use(cors({
-    origin: 'http://localhost:5173',
-    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-    allowedHeaders: ['Content-Type', 'Authorization'],
+    origin: config.clientUrl,
     credentials: true
 }))
 
