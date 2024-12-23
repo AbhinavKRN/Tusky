@@ -1,7 +1,7 @@
 import app from './app'
 import { config } from './config/config'
-import logger from './utils/logger'
 import { connectDB } from './config/database'
+import logger from './utils/logger'
 
 const PORT = config.port || 5000
 
