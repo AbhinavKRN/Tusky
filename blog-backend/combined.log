@@ -1,0 +1,19 @@
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8o1hb.mongodb.net","timestamp":"2024-12-22T21:15:36.152Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-12-22T21:15:36.166Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8o1hb.mongodb.net","timestamp":"2024-12-22T21:20:33.969Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-12-22T21:20:33.976Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8o1hb.mongodb.net","timestamp":"2024-12-22T21:24:31.062Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-12-22T21:24:31.075Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8o1hb.mongodb.net","timestamp":"2024-12-22T21:25:54.205Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-12-22T21:25:54.215Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8o1hb.mongodb.net","timestamp":"2024-12-23T01:24:10.418Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-12-23T01:24:10.425Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-01.8o1hb.mongodb.net","timestamp":"2024-12-23T01:27:27.563Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-12-23T01:27:27.577Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8o1hb.mongodb.net","timestamp":"2024-12-23T01:27:49.035Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-12-23T01:27:49.042Z"}
+{"level":"info","message":"MongoDB Connected: cluster0-shard-00-02.8o1hb.mongodb.net","timestamp":"2024-12-23T01:28:59.694Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2024-12-23T01:28:59.706Z"}
+{"level":"info","message":"Post created successfully","postId":"6768bfb123bcba58ed28a843","timestamp":"2024-12-23T01:41:05.406Z"}
+{"level":"info","message":"Post deleted successfully","postId":"6768bfb123bcba58ed28a843","timestamp":"2024-12-23T01:44:30.279Z"}
+{"level":"info","message":"Post created successfully","postId":"6768c36e23bcba58ed28a88e","timestamp":"2024-12-23T01:57:02.324Z"}
